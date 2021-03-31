@@ -1,0 +1,14 @@
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\bin\Debug\EXAMEN 2.exe.config
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\bin\Debug\EXAMEN 2.exe
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\bin\Debug\EXAMEN 2.pdb
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\bin\Debug\EXAMEN 2.xml
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN_2.Form1.resources
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN_2.Resources.resources
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.vbproj.GenerateResource.Cache
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.exe
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.xml
+c:\users\maximo\documents\visual studio 2012\Projects\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.pdb
+C:\Users\Maximo\Desktop\EXAMEN 2\EXAMEN 2\bin\Debug\EXAMEN 2.exe.config
+C:\Users\Maximo\Desktop\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.exe
+C:\Users\Maximo\Desktop\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.xml
+C:\Users\Maximo\Desktop\EXAMEN 2\EXAMEN 2\obj\Debug\EXAMEN 2.pdb
